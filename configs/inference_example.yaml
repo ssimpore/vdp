@@ -1,0 +1,13 @@
+# Editable VIN inference request. All timestamps are interpreted as UTC.
+vin: VIN006
+reference_trip_id: VIN006_20260213T070000Z_0001
+departure_time: 2026-02-13T07:30:00+00:00
+origin_latitude: 48.9805
+origin_longitude: 2.3205
+prefix_fraction: 0.25
+prefix_points: null
+# null selects the latest eligible completed trips automatically. To select
+# exact history, use a list of trip IDs that end before departure_time.
+history_trip_ids: null
+history_limit: 20
+top_k: 5

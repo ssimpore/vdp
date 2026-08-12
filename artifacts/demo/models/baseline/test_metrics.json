@@ -1,0 +1,18 @@
+{
+  "cell_metrics_defined_samples": 0,
+  "cell_metrics_undefined_samples": 30,
+  "mean_haversine_km": 0.7810661492937812,
+  "mean_reciprocal_rank": null,
+  "median_haversine_km": 0.7809584171347783,
+  "p90_haversine_km": 1.4554415066484445,
+  "recall_within_10km": 1.0,
+  "recall_within_1km": 0.5333333333333333,
+  "recall_within_25km": 1.0,
+  "recall_within_5km": 1.0,
+  "sample_count": 30,
+  "top_1_cell_accuracy": null,
+  "top_3_cell_accuracy": null,
+  "top_5_cell_accuracy": null,
+  "trip_count": 10,
+  "vin_count": 2
+}

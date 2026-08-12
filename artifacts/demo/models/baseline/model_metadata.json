@@ -1,0 +1,55 @@
+{
+  "engine": "baseline",
+  "config_hash": "6b839657dd588a02d3fff0a1be2bf649f71c8bc45662e95daec66228aa5ed895",
+  "feature_columns": [
+    "origin_latitude",
+    "origin_longitude",
+    "hour_sin",
+    "hour_cos",
+    "weekday_sin",
+    "weekday_cos",
+    "month_sin",
+    "month_cos",
+    "weekend",
+    "prefix_fraction",
+    "prefix_last_latitude",
+    "prefix_last_longitude",
+    "prefix_displacement_km",
+    "prefix_path_km",
+    "prefix_bearing_sin",
+    "prefix_bearing_cos",
+    "history_count",
+    "last_destination_latitude",
+    "last_destination_longitude",
+    "mean_destination_latitude",
+    "mean_destination_longitude"
+  ],
+  "grid": {
+    "cell_size_degrees": 0.01
+  },
+  "split_manifest": {
+    "train_vins": [
+      "VIN000",
+      "VIN001",
+      "VIN002",
+      "VIN004",
+      "VIN005",
+      "VIN008",
+      "VIN010",
+      "VIN011",
+      "VIN012",
+      "VIN013"
+    ],
+    "validation_vins": [
+      "VIN003",
+      "VIN009"
+    ],
+    "test_vins": [
+      "VIN006",
+      "VIN007"
+    ],
+    "seed": 42
+  },
+  "python_version": "3.12.3",
+  "scikit_learn_version": "1.8.0"
+}

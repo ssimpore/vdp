@@ -1,0 +1,340 @@
+{
+  "request": {
+    "vin": "VIN006",
+    "reference_trip_id": "VIN006_20260213T130000Z_0003",
+    "departure_time": "2026-02-13T14:00:00+00:00",
+    "origin_latitude": 48.987,
+    "origin_longitude": 2.329,
+    "prefix_fraction": 0.25,
+    "prefix_points": null,
+    "history_trip_ids": [
+      "VIN006_20260213T070000Z_0001"
+    ],
+    "history_limit": null,
+    "top_k": 5
+  },
+  "provenance": {
+    "request_hash": "58bdb1120b4ee7377a1d4119b062ccf965c2378e2d88c63f12ba96ae9e6ca8cb",
+    "vin": "VIN006",
+    "reference_trip_id": "VIN006_20260213T130000Z_0003",
+    "departure_time": "2026-02-13T14:00:00+00:00",
+    "input_sources": {
+      "departure_time": "user_override",
+      "origin": "user_override",
+      "trajectory_prefix": "translated_reference_trip",
+      "history": "user_selected_previous_trips",
+      "actual_destination": "reference_trip_comparison_only"
+    },
+    "history_trip_ids": [
+      "VIN006_20260213T070000Z_0001"
+    ],
+    "eligible_history_trip_ids": [
+      "VIN006_20260213T070000Z_0001",
+      "VIN006_20260213T100000Z_0002"
+    ],
+    "observed_prefix_points": 2,
+    "model_feature_count": 21,
+    "scientific_contract": {
+      "vin_is_model_feature": false,
+      "actual_destination_is_model_feature": false,
+      "future_history_used": false,
+      "final_reference_point_in_prefix": false
+    }
+  },
+  "prediction": {
+    "sample_id": "scenario:58bdb1120b4ee737",
+    "VIN": "VIN006",
+    "vehicle_id": "vehicle-3c641937fb",
+    "trip_id": "VIN006_20260213T130000Z_0003",
+    "split": "test",
+    "prefix_fraction": 0.25,
+    "origin_latitude": 48.987,
+    "origin_longitude": 2.329,
+    "actual_latitude": 49.004,
+    "actual_longitude": 2.342,
+    "actual_cell": "g13900:18234",
+    "predicted_latitude": 48.9901416667,
+    "predicted_longitude": 2.3378916667,
+    "predicted_cell": "g13897:18232",
+    "predicted_cell_probability": 0.5083333333,
+    "actual_rank": null,
+    "top_k_candidates": "[{\"rank\":1,\"cell\":\"g13897:18232\",\"probability\":0.5083333333333333,\"latitude\":48.975,\"longitude\":2.324999999999993},{\"rank\":2,\"cell\":\"g13896:18232\",\"probability\":0.225,\"latitude\":48.96500000000001,\"longitude\":2.324999999999993},{\"rank\":3,\"cell\":\"g13896:18231\",\"probability\":0.125,\"latitude\":48.96500000000001,\"longitude\":2.315000000000002},{\"rank\":4,\"cell\":\"g13905:18237\",\"probability\":0.08333333333333333,\"latitude\":49.055000000000014,\"longitude\":2.3750000000000044},{\"rank\":5,\"cell\":\"g13906:18238\",\"probability\":0.025,\"latitude\":49.065000000000005,\"longitude\":2.3849999999999953}]",
+    "error_km": 1.5698561779,
+    "scenario_id": "58bdb1120b4ee7377a1d4119b062ccf965c2378e2d88c63f12ba96ae9e6ca8cb",
+    "input_provenance": "{\"departure_time\":\"2026-02-13T14:00:00+00:00\",\"eligible_history_trip_ids\":[\"VIN006_20260213T070000Z_0001\",\"VIN006_20260213T100000Z_0002\"],\"history_trip_ids\":[\"VIN006_20260213T070000Z_0001\"],\"input_sources\":{\"actual_destination\":\"reference_trip_comparison_only\",\"departure_time\":\"user_override\",\"history\":\"user_selected_previous_trips\",\"origin\":\"user_override\",\"trajectory_prefix\":\"translated_reference_trip\"},\"model_feature_count\":21,\"observed_prefix_points\":2,\"reference_trip_id\":\"VIN006_20260213T130000Z_0003\",\"request_hash\":\"58bdb1120b4ee7377a1d4119b062ccf965c2378e2d88c63f12ba96ae9e6ca8cb\",\"scientific_contract\":{\"actual_destination_is_model_feature\":false,\"final_reference_point_in_prefix\":false,\"future_history_used\":false,\"vin_is_model_feature\":false},\"vin\":\"VIN006\"}"
+  },
+  "map": {
+    "trajectory": [
+      [
+        2.328,
+        48.986
+      ],
+      [
+        2.3303333,
+        48.989
+      ],
+      [
+        2.3326667,
+        48.992
+      ],
+      [
+        2.335,
+        48.995
+      ],
+      [
+        2.3373333,
+        48.998
+      ],
+      [
+        2.3396667,
+        49.001
+      ],
+      [
+        2.342,
+        49.004
+      ]
+    ],
+    "prefix": [
+      [
+        2.329,
+        48.987
+      ],
+      [
+        2.3313333000000003,
+        48.99
+      ]
+    ],
+    "points": [
+      {
+        "kind": "origin",
+        "label": "Prediction origin",
+        "latitude": 48.987,
+        "longitude": 2.329,
+        "color": [
+          31,
+          41,
+          55,
+          230
+        ]
+      },
+      {
+        "kind": "actual",
+        "label": "Actual destination",
+        "latitude": 49.004,
+        "longitude": 2.342,
+        "color": [
+          16,
+          185,
+          129,
+          240
+        ]
+      },
+      {
+        "kind": "refined",
+        "label": "Refined prediction (1.57 km error)",
+        "latitude": 48.99014166666669,
+        "longitude": 2.337891666666668,
+        "color": [
+          239,
+          68,
+          68,
+          240
+        ]
+      }
+    ],
+    "candidates": [
+      {
+        "rank": 1,
+        "cell": "g13897:18232",
+        "probability": 0.5083333333333333,
+        "latitude": 48.975,
+        "longitude": 2.324999999999993,
+        "error_to_actual_km": 3.4550047508736474,
+        "polygon": [
+          [
+            2.319999999999993,
+            48.97
+          ],
+          [
+            2.329999999999993,
+            48.97
+          ],
+          [
+            2.329999999999993,
+            48.980000000000004
+          ],
+          [
+            2.319999999999993,
+            48.980000000000004
+          ],
+          [
+            2.319999999999993,
+            48.97
+          ]
+        ]
+      },
+      {
+        "rank": 2,
+        "cell": "g13896:18232",
+        "probability": 0.225,
+        "latitude": 48.96500000000001,
+        "longitude": 2.324999999999993,
+        "error_to_actual_km": 4.510556695225945,
+        "polygon": [
+          [
+            2.319999999999993,
+            48.96000000000001
+          ],
+          [
+            2.329999999999993,
+            48.96000000000001
+          ],
+          [
+            2.329999999999993,
+            48.97000000000001
+          ],
+          [
+            2.319999999999993,
+            48.97000000000001
+          ],
+          [
+            2.319999999999993,
+            48.96000000000001
+          ]
+        ]
+      },
+      {
+        "rank": 3,
+        "cell": "g13896:18231",
+        "probability": 0.125,
+        "latitude": 48.96500000000001,
+        "longitude": 2.315000000000002,
+        "error_to_actual_km": 4.763209236255461,
+        "polygon": [
+          [
+            2.3100000000000023,
+            48.96000000000001
+          ],
+          [
+            2.320000000000002,
+            48.96000000000001
+          ],
+          [
+            2.320000000000002,
+            48.97000000000001
+          ],
+          [
+            2.3100000000000023,
+            48.97000000000001
+          ],
+          [
+            2.3100000000000023,
+            48.96000000000001
+          ]
+        ]
+      },
+      {
+        "rank": 4,
+        "cell": "g13905:18237",
+        "probability": 0.08333333333333333,
+        "latitude": 49.055000000000014,
+        "longitude": 2.3750000000000044,
+        "error_to_actual_km": 6.160212348805001,
+        "polygon": [
+          [
+            2.3700000000000045,
+            49.05000000000001
+          ],
+          [
+            2.3800000000000043,
+            49.05000000000001
+          ],
+          [
+            2.3800000000000043,
+            49.06000000000002
+          ],
+          [
+            2.3700000000000045,
+            49.06000000000002
+          ],
+          [
+            2.3700000000000045,
+            49.05000000000001
+          ]
+        ]
+      },
+      {
+        "rank": 5,
+        "cell": "g13906:18238",
+        "probability": 0.025,
+        "latitude": 49.065000000000005,
+        "longitude": 2.3849999999999953,
+        "error_to_actual_km": 7.472219746307364,
+        "polygon": [
+          [
+            2.3799999999999955,
+            49.06
+          ],
+          [
+            2.3899999999999952,
+            49.06
+          ],
+          [
+            2.3899999999999952,
+            49.07000000000001
+          ],
+          [
+            2.3799999999999955,
+            49.07000000000001
+          ],
+          [
+            2.3799999999999955,
+            49.06
+          ]
+        ]
+      }
+    ],
+    "lines": [
+      {
+        "path": [
+          [
+            2.329,
+            48.987
+          ],
+          [
+            2.342,
+            49.004
+          ]
+        ],
+        "color": [
+          16,
+          185,
+          129,
+          150
+        ]
+      },
+      {
+        "path": [
+          [
+            2.329,
+            48.987
+          ],
+          [
+            2.337891666666668,
+            48.99014166666669
+          ]
+        ],
+        "color": [
+          239,
+          68,
+          68,
+          150
+        ]
+      }
+    ],
+    "center": {
+      "latitude": 48.9937138888889,
+      "longitude": 2.336297222222223
+    }
+  }
+}

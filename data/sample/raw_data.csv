@@ -1,0 +1,631 @@
+vin,triggerOrContext,name,scalarValue,timeSeriesValue,vehicleCollectionTime,inCdpTime,fuel,hyb,model
+VIN000,Vehicle/Trigger/StartOfJourney,locationLatitude,48.8,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN000,Vehicle/Trigger/StartOfJourney,locationLongitude,2.2,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN000,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN000,Vehicle/Trigger/EndOfJourney,locationLatitude,48.81,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN000,Vehicle/Trigger/EndOfJourney,locationLongitude,2.208,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN000,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN000,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.8, 48.8025, 48.805, 48.8075, 48.81]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN000,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.2, 2.202, 2.204, 2.206, 2.208]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN000,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.5, 71.0, 71.5, 72.0]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN000,Vehicle/Trigger/StartOfJourney,locationLatitude,48.803,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN000,Vehicle/Trigger/StartOfJourney,locationLongitude,2.204,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN000,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN000,Vehicle/Trigger/EndOfJourney,locationLatitude,48.817,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN000,Vehicle/Trigger/EndOfJourney,locationLongitude,2.215,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN000,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN000,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.803, 48.8058, 48.8086, 48.8114, 48.8142, 48.817]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN000,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.204, 2.2062, 2.2084, 2.2106, 2.2128, 2.215]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN000,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.4, 70.8, 71.2, 71.6, 72.0]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN000,Vehicle/Trigger/StartOfJourney,locationLatitude,48.806,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN000,Vehicle/Trigger/StartOfJourney,locationLongitude,2.208,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN000,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN000,Vehicle/Trigger/EndOfJourney,locationLatitude,48.824,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN000,Vehicle/Trigger/EndOfJourney,locationLongitude,2.222,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN000,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN000,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.806, 48.809, 48.812, 48.815, 48.818, 48.821, 48.824]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN000,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.208, 2.2103333, 2.2126667, 2.215, 2.2173333, 2.2196667, 2.222]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN000,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.3, 70.7, 71.0, 71.3, 71.7, 72.0]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN000,Vehicle/Trigger/StartOfJourney,locationLatitude,48.809,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN000,Vehicle/Trigger/StartOfJourney,locationLongitude,2.212,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN000,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN000,Vehicle/Trigger/EndOfJourney,locationLatitude,48.819,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN000,Vehicle/Trigger/EndOfJourney,locationLongitude,2.229,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN000,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN000,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.809, 48.8115, 48.814, 48.8165, 48.819]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN000,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.212, 2.21625, 2.2205, 2.22475, 2.229]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN000,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.5, 71.0, 71.5, 72.0]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN000,Vehicle/Trigger/StartOfJourney,locationLatitude,48.812,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN000,Vehicle/Trigger/StartOfJourney,locationLongitude,2.216,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN000,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN000,Vehicle/Trigger/EndOfJourney,locationLatitude,48.826,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN000,Vehicle/Trigger/EndOfJourney,locationLongitude,2.224,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN000,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN000,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.812, 48.8148, 48.8176, 48.8204, 48.8232, 48.826]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN000,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.216, 2.2176, 2.2192, 2.2208, 2.2224, 2.224]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN000,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.4, 70.8, 71.2, 71.6, 72.0]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN001,Vehicle/Trigger/StartOfJourney,locationLatitude,48.83,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN001,Vehicle/Trigger/StartOfJourney,locationLongitude,2.22,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN001,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN001,Vehicle/Trigger/EndOfJourney,locationLatitude,48.84,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN001,Vehicle/Trigger/EndOfJourney,locationLongitude,2.228,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN001,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN001,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.83, 48.8325, 48.835, 48.8375, 48.84]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN001,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.22, 2.222, 2.224, 2.226, 2.228]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN001,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.5, 71.0, 71.5, 72.0]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN001,Vehicle/Trigger/StartOfJourney,locationLatitude,48.833,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN001,Vehicle/Trigger/StartOfJourney,locationLongitude,2.224,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN001,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN001,Vehicle/Trigger/EndOfJourney,locationLatitude,48.847,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN001,Vehicle/Trigger/EndOfJourney,locationLongitude,2.235,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN001,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN001,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.833, 48.8358, 48.8386, 48.8414, 48.8442, 48.847]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN001,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.224, 2.2262, 2.2284, 2.2306, 2.2328, 2.235]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN001,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.4, 70.8, 71.2, 71.6, 72.0]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN001,Vehicle/Trigger/StartOfJourney,locationLatitude,48.836,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN001,Vehicle/Trigger/StartOfJourney,locationLongitude,2.228,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN001,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN001,Vehicle/Trigger/EndOfJourney,locationLatitude,48.854,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN001,Vehicle/Trigger/EndOfJourney,locationLongitude,2.242,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN001,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN001,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.836, 48.839, 48.842, 48.845, 48.848, 48.851, 48.854]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN001,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.228, 2.2303333, 2.2326667, 2.235, 2.2373333, 2.2396667, 2.242]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN001,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.3, 70.7, 71.0, 71.3, 71.7, 72.0]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN001,Vehicle/Trigger/StartOfJourney,locationLatitude,48.839,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN001,Vehicle/Trigger/StartOfJourney,locationLongitude,2.232,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN001,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN001,Vehicle/Trigger/EndOfJourney,locationLatitude,48.849,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN001,Vehicle/Trigger/EndOfJourney,locationLongitude,2.249,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN001,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN001,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.839, 48.8415, 48.844, 48.8465, 48.849]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN001,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.232, 2.23625, 2.2405, 2.24475, 2.249]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN001,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.5, 71.0, 71.5, 72.0]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN001,Vehicle/Trigger/StartOfJourney,locationLatitude,48.842,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN001,Vehicle/Trigger/StartOfJourney,locationLongitude,2.236,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN001,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN001,Vehicle/Trigger/EndOfJourney,locationLatitude,48.856,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN001,Vehicle/Trigger/EndOfJourney,locationLongitude,2.244,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN001,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN001,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.842, 48.8448, 48.8476, 48.8504, 48.8532, 48.856]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN001,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.236, 2.2376, 2.2392, 2.2408, 2.2424, 2.244]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN001,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.4, 70.8, 71.2, 71.6, 72.0]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN002,Vehicle/Trigger/StartOfJourney,locationLatitude,48.86,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN002,Vehicle/Trigger/StartOfJourney,locationLongitude,2.24,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN002,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN002,Vehicle/Trigger/EndOfJourney,locationLatitude,48.87,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN002,Vehicle/Trigger/EndOfJourney,locationLongitude,2.248,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN002,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN002,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.86, 48.8625, 48.865, 48.8675, 48.87]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN002,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.24, 2.242, 2.244, 2.246, 2.248]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN002,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.5, 71.0, 71.5, 72.0]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN002,Vehicle/Trigger/StartOfJourney,locationLatitude,48.863,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN002,Vehicle/Trigger/StartOfJourney,locationLongitude,2.244,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN002,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN002,Vehicle/Trigger/EndOfJourney,locationLatitude,48.877,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN002,Vehicle/Trigger/EndOfJourney,locationLongitude,2.255,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN002,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN002,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.863, 48.8658, 48.8686, 48.8714, 48.8742, 48.877]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN002,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.244, 2.2462, 2.2484, 2.2506, 2.2528, 2.255]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN002,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.4, 70.8, 71.2, 71.6, 72.0]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN002,Vehicle/Trigger/StartOfJourney,locationLatitude,48.866,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN002,Vehicle/Trigger/StartOfJourney,locationLongitude,2.248,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN002,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN002,Vehicle/Trigger/EndOfJourney,locationLatitude,48.884,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN002,Vehicle/Trigger/EndOfJourney,locationLongitude,2.262,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN002,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN002,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.866, 48.869, 48.872, 48.875, 48.878, 48.881, 48.884]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN002,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.248, 2.2503333, 2.2526667, 2.255, 2.2573333, 2.2596667, 2.262]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN002,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.3, 70.7, 71.0, 71.3, 71.7, 72.0]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN002,Vehicle/Trigger/StartOfJourney,locationLatitude,48.869,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN002,Vehicle/Trigger/StartOfJourney,locationLongitude,2.252,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN002,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN002,Vehicle/Trigger/EndOfJourney,locationLatitude,48.879,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN002,Vehicle/Trigger/EndOfJourney,locationLongitude,2.269,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN002,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN002,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.869, 48.8715, 48.874, 48.8765, 48.879]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN002,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.252, 2.25625, 2.2605, 2.26475, 2.269]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN002,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.5, 71.0, 71.5, 72.0]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN002,Vehicle/Trigger/StartOfJourney,locationLatitude,48.872,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN002,Vehicle/Trigger/StartOfJourney,locationLongitude,2.256,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN002,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN002,Vehicle/Trigger/EndOfJourney,locationLatitude,48.886,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN002,Vehicle/Trigger/EndOfJourney,locationLongitude,2.264,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN002,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN002,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.872, 48.8748, 48.8776, 48.8804, 48.8832, 48.886]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN002,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.256, 2.2576, 2.2592, 2.2608, 2.2624, 2.264]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN002,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.4, 70.8, 71.2, 71.6, 72.0]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN003,Vehicle/Trigger/StartOfJourney,locationLatitude,48.89,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN003,Vehicle/Trigger/StartOfJourney,locationLongitude,2.26,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN003,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN003,Vehicle/Trigger/EndOfJourney,locationLatitude,48.9,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN003,Vehicle/Trigger/EndOfJourney,locationLongitude,2.268,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN003,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN003,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.89, 48.8925, 48.895, 48.8975, 48.9]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN003,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.26, 2.262, 2.264, 2.266, 2.268]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN003,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.5, 71.0, 71.5, 72.0]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN003,Vehicle/Trigger/StartOfJourney,locationLatitude,48.893,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN003,Vehicle/Trigger/StartOfJourney,locationLongitude,2.264,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN003,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN003,Vehicle/Trigger/EndOfJourney,locationLatitude,48.907,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN003,Vehicle/Trigger/EndOfJourney,locationLongitude,2.275,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN003,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN003,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.893, 48.8958, 48.8986, 48.9014, 48.9042, 48.907]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN003,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.264, 2.2662, 2.2684, 2.2706, 2.2728, 2.275]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN003,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.4, 70.8, 71.2, 71.6, 72.0]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN003,Vehicle/Trigger/StartOfJourney,locationLatitude,48.896,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN003,Vehicle/Trigger/StartOfJourney,locationLongitude,2.268,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN003,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN003,Vehicle/Trigger/EndOfJourney,locationLatitude,48.914,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN003,Vehicle/Trigger/EndOfJourney,locationLongitude,2.282,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN003,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN003,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.896, 48.899, 48.902, 48.905, 48.908, 48.911, 48.914]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN003,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.268, 2.2703333, 2.2726667, 2.275, 2.2773333, 2.2796667, 2.282]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN003,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.3, 70.7, 71.0, 71.3, 71.7, 72.0]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN003,Vehicle/Trigger/StartOfJourney,locationLatitude,48.899,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN003,Vehicle/Trigger/StartOfJourney,locationLongitude,2.272,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN003,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN003,Vehicle/Trigger/EndOfJourney,locationLatitude,48.909,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN003,Vehicle/Trigger/EndOfJourney,locationLongitude,2.289,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN003,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN003,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.899, 48.9015, 48.904, 48.9065, 48.909]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN003,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.272, 2.27625, 2.2805, 2.28475, 2.289]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN003,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.5, 71.0, 71.5, 72.0]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN003,Vehicle/Trigger/StartOfJourney,locationLatitude,48.902,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN003,Vehicle/Trigger/StartOfJourney,locationLongitude,2.276,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN003,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN003,Vehicle/Trigger/EndOfJourney,locationLatitude,48.916,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN003,Vehicle/Trigger/EndOfJourney,locationLongitude,2.284,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN003,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN003,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.902, 48.9048, 48.9076, 48.9104, 48.9132, 48.916]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN003,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.276, 2.2776, 2.2792, 2.2808, 2.2824, 2.284]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN003,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.4, 70.8, 71.2, 71.6, 72.0]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN004,Vehicle/Trigger/StartOfJourney,locationLatitude,48.92,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN004,Vehicle/Trigger/StartOfJourney,locationLongitude,2.28,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN004,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN004,Vehicle/Trigger/EndOfJourney,locationLatitude,48.93,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN004,Vehicle/Trigger/EndOfJourney,locationLongitude,2.288,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN004,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN004,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.92, 48.9225, 48.925, 48.9275, 48.93]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN004,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.28, 2.282, 2.284, 2.286, 2.288]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN004,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.5, 71.0, 71.5, 72.0]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN004,Vehicle/Trigger/StartOfJourney,locationLatitude,48.923,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN004,Vehicle/Trigger/StartOfJourney,locationLongitude,2.284,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN004,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN004,Vehicle/Trigger/EndOfJourney,locationLatitude,48.937,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN004,Vehicle/Trigger/EndOfJourney,locationLongitude,2.295,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN004,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN004,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.923, 48.9258, 48.9286, 48.9314, 48.9342, 48.937]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN004,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.284, 2.2862, 2.2884, 2.2906, 2.2928, 2.295]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN004,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.4, 70.8, 71.2, 71.6, 72.0]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN004,Vehicle/Trigger/StartOfJourney,locationLatitude,48.926,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN004,Vehicle/Trigger/StartOfJourney,locationLongitude,2.288,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN004,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN004,Vehicle/Trigger/EndOfJourney,locationLatitude,48.944,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN004,Vehicle/Trigger/EndOfJourney,locationLongitude,2.302,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN004,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN004,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.926, 48.929, 48.932, 48.935, 48.938, 48.941, 48.944]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN004,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.288, 2.2903333, 2.2926667, 2.295, 2.2973333, 2.2996667, 2.302]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN004,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.3, 70.7, 71.0, 71.3, 71.7, 72.0]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN004,Vehicle/Trigger/StartOfJourney,locationLatitude,48.929,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN004,Vehicle/Trigger/StartOfJourney,locationLongitude,2.292,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN004,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN004,Vehicle/Trigger/EndOfJourney,locationLatitude,48.939,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN004,Vehicle/Trigger/EndOfJourney,locationLongitude,2.309,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN004,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN004,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.929, 48.9315, 48.934, 48.9365, 48.939]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN004,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.292, 2.29625, 2.3005, 2.30475, 2.309]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN004,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.5, 71.0, 71.5, 72.0]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN004,Vehicle/Trigger/StartOfJourney,locationLatitude,48.932,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN004,Vehicle/Trigger/StartOfJourney,locationLongitude,2.296,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN004,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN004,Vehicle/Trigger/EndOfJourney,locationLatitude,48.946,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN004,Vehicle/Trigger/EndOfJourney,locationLongitude,2.304,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN004,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN004,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.932, 48.9348, 48.9376, 48.9404, 48.9432, 48.946]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN004,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.296, 2.2976, 2.2992, 2.3008, 2.3024, 2.304]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN004,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.4, 70.8, 71.2, 71.6, 72.0]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN005,Vehicle/Trigger/StartOfJourney,locationLatitude,48.95,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN005,Vehicle/Trigger/StartOfJourney,locationLongitude,2.3,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN005,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN005,Vehicle/Trigger/EndOfJourney,locationLatitude,48.96,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN005,Vehicle/Trigger/EndOfJourney,locationLongitude,2.308,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN005,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN005,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.95, 48.9525, 48.955, 48.9575, 48.96]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN005,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.3, 2.302, 2.304, 2.306, 2.308]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN005,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.5, 71.0, 71.5, 72.0]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN005,Vehicle/Trigger/StartOfJourney,locationLatitude,48.953,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN005,Vehicle/Trigger/StartOfJourney,locationLongitude,2.304,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN005,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN005,Vehicle/Trigger/EndOfJourney,locationLatitude,48.967,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN005,Vehicle/Trigger/EndOfJourney,locationLongitude,2.315,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN005,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN005,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.953, 48.9558, 48.9586, 48.9614, 48.9642, 48.967]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN005,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.304, 2.3062, 2.3084, 2.3106, 2.3128, 2.315]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN005,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.4, 70.8, 71.2, 71.6, 72.0]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN005,Vehicle/Trigger/StartOfJourney,locationLatitude,48.956,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN005,Vehicle/Trigger/StartOfJourney,locationLongitude,2.308,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN005,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN005,Vehicle/Trigger/EndOfJourney,locationLatitude,48.974,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN005,Vehicle/Trigger/EndOfJourney,locationLongitude,2.322,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN005,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN005,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.956, 48.959, 48.962, 48.965, 48.968, 48.971, 48.974]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN005,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.308, 2.3103333, 2.3126667, 2.315, 2.3173333, 2.3196667, 2.322]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN005,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.3, 70.7, 71.0, 71.3, 71.7, 72.0]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN005,Vehicle/Trigger/StartOfJourney,locationLatitude,48.959,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN005,Vehicle/Trigger/StartOfJourney,locationLongitude,2.312,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN005,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN005,Vehicle/Trigger/EndOfJourney,locationLatitude,48.969,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN005,Vehicle/Trigger/EndOfJourney,locationLongitude,2.329,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN005,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN005,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.959, 48.9615, 48.964, 48.9665, 48.969]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN005,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.312, 2.31625, 2.3205, 2.32475, 2.329]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN005,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.5, 71.0, 71.5, 72.0]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN005,Vehicle/Trigger/StartOfJourney,locationLatitude,48.962,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN005,Vehicle/Trigger/StartOfJourney,locationLongitude,2.316,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN005,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN005,Vehicle/Trigger/EndOfJourney,locationLatitude,48.976,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN005,Vehicle/Trigger/EndOfJourney,locationLongitude,2.324,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN005,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN005,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.962, 48.9648, 48.9676, 48.9704, 48.9732, 48.976]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN005,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.316, 2.3176, 2.3192, 2.3208, 2.3224, 2.324]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN005,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.4, 70.8, 71.2, 71.6, 72.0]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN006,Vehicle/Trigger/StartOfJourney,locationLatitude,48.98,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN006,Vehicle/Trigger/StartOfJourney,locationLongitude,2.32,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN006,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN006,Vehicle/Trigger/EndOfJourney,locationLatitude,48.99,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN006,Vehicle/Trigger/EndOfJourney,locationLongitude,2.328,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN006,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN006,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.98, 48.9825, 48.985, 48.9875, 48.99]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN006,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.32, 2.322, 2.324, 2.326, 2.328]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN006,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.5, 71.0, 71.5, 72.0]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN006,Vehicle/Trigger/StartOfJourney,locationLatitude,48.983,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN006,Vehicle/Trigger/StartOfJourney,locationLongitude,2.324,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN006,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN006,Vehicle/Trigger/EndOfJourney,locationLatitude,48.997,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN006,Vehicle/Trigger/EndOfJourney,locationLongitude,2.335,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN006,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN006,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.983, 48.9858, 48.9886, 48.9914, 48.9942, 48.997]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN006,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.324, 2.3262, 2.3284, 2.3306, 2.3328, 2.335]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN006,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.4, 70.8, 71.2, 71.6, 72.0]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN006,Vehicle/Trigger/StartOfJourney,locationLatitude,48.986,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN006,Vehicle/Trigger/StartOfJourney,locationLongitude,2.328,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN006,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN006,Vehicle/Trigger/EndOfJourney,locationLatitude,49.004,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN006,Vehicle/Trigger/EndOfJourney,locationLongitude,2.342,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN006,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN006,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.986, 48.989, 48.992, 48.995, 48.998, 49.001, 49.004]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN006,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.328, 2.3303333, 2.3326667, 2.335, 2.3373333, 2.3396667, 2.342]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN006,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.3, 70.7, 71.0, 71.3, 71.7, 72.0]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN006,Vehicle/Trigger/StartOfJourney,locationLatitude,48.989,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN006,Vehicle/Trigger/StartOfJourney,locationLongitude,2.332,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN006,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN006,Vehicle/Trigger/EndOfJourney,locationLatitude,48.999,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN006,Vehicle/Trigger/EndOfJourney,locationLongitude,2.349,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN006,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN006,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.989, 48.9915, 48.994, 48.9965, 48.999]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN006,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.332, 2.33625, 2.3405, 2.34475, 2.349]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN006,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.5, 71.0, 71.5, 72.0]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN006,Vehicle/Trigger/StartOfJourney,locationLatitude,48.992,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN006,Vehicle/Trigger/StartOfJourney,locationLongitude,2.336,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN006,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN006,Vehicle/Trigger/EndOfJourney,locationLatitude,49.006,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN006,Vehicle/Trigger/EndOfJourney,locationLongitude,2.344,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN006,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN006,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[48.992, 48.9948, 48.9976, 49.0004, 49.0032, 49.006]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN006,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.336, 2.3376, 2.3392, 2.3408, 2.3424, 2.344]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN006,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.4, 70.8, 71.2, 71.6, 72.0]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN007,Vehicle/Trigger/StartOfJourney,locationLatitude,49.01,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN007,Vehicle/Trigger/StartOfJourney,locationLongitude,2.34,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN007,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN007,Vehicle/Trigger/EndOfJourney,locationLatitude,49.02,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN007,Vehicle/Trigger/EndOfJourney,locationLongitude,2.348,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN007,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN007,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.01, 49.0125, 49.015, 49.0175, 49.02]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN007,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.34, 2.342, 2.344, 2.346, 2.348]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN007,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.5, 71.0, 71.5, 72.0]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN007,Vehicle/Trigger/StartOfJourney,locationLatitude,49.013,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN007,Vehicle/Trigger/StartOfJourney,locationLongitude,2.344,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN007,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN007,Vehicle/Trigger/EndOfJourney,locationLatitude,49.027,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN007,Vehicle/Trigger/EndOfJourney,locationLongitude,2.355,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN007,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN007,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.013, 49.0158, 49.0186, 49.0214, 49.0242, 49.027]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN007,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.344, 2.3462, 2.3484, 2.3506, 2.3528, 2.355]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN007,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.4, 70.8, 71.2, 71.6, 72.0]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN007,Vehicle/Trigger/StartOfJourney,locationLatitude,49.016,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN007,Vehicle/Trigger/StartOfJourney,locationLongitude,2.348,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN007,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN007,Vehicle/Trigger/EndOfJourney,locationLatitude,49.034,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN007,Vehicle/Trigger/EndOfJourney,locationLongitude,2.362,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN007,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN007,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.016, 49.019, 49.022, 49.025, 49.028, 49.031, 49.034]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN007,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.348, 2.3503333, 2.3526667, 2.355, 2.3573333, 2.3596667, 2.362]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN007,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.3, 70.7, 71.0, 71.3, 71.7, 72.0]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN007,Vehicle/Trigger/StartOfJourney,locationLatitude,49.019,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN007,Vehicle/Trigger/StartOfJourney,locationLongitude,2.352,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN007,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN007,Vehicle/Trigger/EndOfJourney,locationLatitude,49.029,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN007,Vehicle/Trigger/EndOfJourney,locationLongitude,2.369,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN007,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN007,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.019, 49.0215, 49.024, 49.0265, 49.029]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN007,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.352, 2.35625, 2.3605, 2.36475, 2.369]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN007,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.5, 71.0, 71.5, 72.0]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN007,Vehicle/Trigger/StartOfJourney,locationLatitude,49.022,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN007,Vehicle/Trigger/StartOfJourney,locationLongitude,2.356,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN007,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN007,Vehicle/Trigger/EndOfJourney,locationLatitude,49.036,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN007,Vehicle/Trigger/EndOfJourney,locationLongitude,2.364,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN007,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN007,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.022, 49.0248, 49.0276, 49.0304, 49.0332, 49.036]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN007,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.356, 2.3576, 2.3592, 2.3608, 2.3624, 2.364]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN007,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.4, 70.8, 71.2, 71.6, 72.0]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN008,Vehicle/Trigger/StartOfJourney,locationLatitude,49.04,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN008,Vehicle/Trigger/StartOfJourney,locationLongitude,2.36,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN008,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN008,Vehicle/Trigger/EndOfJourney,locationLatitude,49.05,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN008,Vehicle/Trigger/EndOfJourney,locationLongitude,2.368,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN008,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN008,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.04, 49.0425, 49.045, 49.0475, 49.05]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN008,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.36, 2.362, 2.364, 2.366, 2.368]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN008,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.5, 71.0, 71.5, 72.0]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN008,Vehicle/Trigger/StartOfJourney,locationLatitude,49.043,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN008,Vehicle/Trigger/StartOfJourney,locationLongitude,2.364,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN008,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN008,Vehicle/Trigger/EndOfJourney,locationLatitude,49.057,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN008,Vehicle/Trigger/EndOfJourney,locationLongitude,2.375,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN008,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN008,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.043, 49.0458, 49.0486, 49.0514, 49.0542, 49.057]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN008,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.364, 2.3662, 2.3684, 2.3706, 2.3728, 2.375]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN008,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.4, 70.8, 71.2, 71.6, 72.0]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN008,Vehicle/Trigger/StartOfJourney,locationLatitude,49.046,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN008,Vehicle/Trigger/StartOfJourney,locationLongitude,2.368,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN008,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN008,Vehicle/Trigger/EndOfJourney,locationLatitude,49.064,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN008,Vehicle/Trigger/EndOfJourney,locationLongitude,2.382,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN008,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN008,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.046, 49.049, 49.052, 49.055, 49.058, 49.061, 49.064]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN008,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.368, 2.3703333, 2.3726667, 2.375, 2.3773333, 2.3796667, 2.382]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN008,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.3, 70.7, 71.0, 71.3, 71.7, 72.0]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN008,Vehicle/Trigger/StartOfJourney,locationLatitude,49.049,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN008,Vehicle/Trigger/StartOfJourney,locationLongitude,2.372,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN008,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN008,Vehicle/Trigger/EndOfJourney,locationLatitude,49.059,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN008,Vehicle/Trigger/EndOfJourney,locationLongitude,2.389,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN008,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN008,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.049, 49.0515, 49.054, 49.0565, 49.059]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN008,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.372, 2.37625, 2.3805, 2.38475, 2.389]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN008,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.5, 71.0, 71.5, 72.0]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN008,Vehicle/Trigger/StartOfJourney,locationLatitude,49.052,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN008,Vehicle/Trigger/StartOfJourney,locationLongitude,2.376,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN008,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN008,Vehicle/Trigger/EndOfJourney,locationLatitude,49.066,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN008,Vehicle/Trigger/EndOfJourney,locationLongitude,2.384,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN008,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN008,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.052, 49.0548, 49.0576, 49.0604, 49.0632, 49.066]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN008,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.376, 2.3776, 2.3792, 2.3808, 2.3824, 2.384]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN008,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.4, 70.8, 71.2, 71.6, 72.0]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN009,Vehicle/Trigger/StartOfJourney,locationLatitude,49.07,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN009,Vehicle/Trigger/StartOfJourney,locationLongitude,2.38,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN009,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN009,Vehicle/Trigger/EndOfJourney,locationLatitude,49.08,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN009,Vehicle/Trigger/EndOfJourney,locationLongitude,2.388,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN009,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN009,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.07, 49.0725, 49.075, 49.0775, 49.08]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN009,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.38, 2.382, 2.384, 2.386, 2.388]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN009,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.5, 71.0, 71.5, 72.0]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN009,Vehicle/Trigger/StartOfJourney,locationLatitude,49.073,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN009,Vehicle/Trigger/StartOfJourney,locationLongitude,2.384,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN009,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN009,Vehicle/Trigger/EndOfJourney,locationLatitude,49.087,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN009,Vehicle/Trigger/EndOfJourney,locationLongitude,2.395,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN009,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN009,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.073, 49.0758, 49.0786, 49.0814, 49.0842, 49.087]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN009,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.384, 2.3862, 2.3884, 2.3906, 2.3928, 2.395]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN009,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.4, 70.8, 71.2, 71.6, 72.0]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN009,Vehicle/Trigger/StartOfJourney,locationLatitude,49.076,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN009,Vehicle/Trigger/StartOfJourney,locationLongitude,2.388,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN009,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN009,Vehicle/Trigger/EndOfJourney,locationLatitude,49.094,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN009,Vehicle/Trigger/EndOfJourney,locationLongitude,2.402,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN009,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN009,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.076, 49.079, 49.082, 49.085, 49.088, 49.091, 49.094]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN009,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.388, 2.3903333, 2.3926667, 2.395, 2.3973333, 2.3996667, 2.402]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN009,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.3, 70.7, 71.0, 71.3, 71.7, 72.0]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN009,Vehicle/Trigger/StartOfJourney,locationLatitude,49.079,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN009,Vehicle/Trigger/StartOfJourney,locationLongitude,2.392,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN009,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN009,Vehicle/Trigger/EndOfJourney,locationLatitude,49.089,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN009,Vehicle/Trigger/EndOfJourney,locationLongitude,2.409,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN009,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN009,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.079, 49.0815, 49.084, 49.0865, 49.089]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN009,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.392, 2.39625, 2.4005, 2.40475, 2.409]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN009,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.5, 71.0, 71.5, 72.0]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN009,Vehicle/Trigger/StartOfJourney,locationLatitude,49.082,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN009,Vehicle/Trigger/StartOfJourney,locationLongitude,2.396,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN009,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN009,Vehicle/Trigger/EndOfJourney,locationLatitude,49.096,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN009,Vehicle/Trigger/EndOfJourney,locationLongitude,2.404,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN009,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN009,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.082, 49.0848, 49.0876, 49.0904, 49.0932, 49.096]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN009,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.396, 2.3976, 2.3992, 2.4008, 2.4024, 2.404]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN009,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.4, 70.8, 71.2, 71.6, 72.0]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN010,Vehicle/Trigger/StartOfJourney,locationLatitude,49.1,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN010,Vehicle/Trigger/StartOfJourney,locationLongitude,2.4,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN010,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN010,Vehicle/Trigger/EndOfJourney,locationLatitude,49.11,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN010,Vehicle/Trigger/EndOfJourney,locationLongitude,2.408,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN010,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN010,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.1, 49.1025, 49.105, 49.1075, 49.11]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN010,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.4, 2.402, 2.404, 2.406, 2.408]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN010,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.5, 71.0, 71.5, 72.0]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN010,Vehicle/Trigger/StartOfJourney,locationLatitude,49.103,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN010,Vehicle/Trigger/StartOfJourney,locationLongitude,2.404,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN010,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN010,Vehicle/Trigger/EndOfJourney,locationLatitude,49.117,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN010,Vehicle/Trigger/EndOfJourney,locationLongitude,2.415,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN010,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN010,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.103, 49.1058, 49.1086, 49.1114, 49.1142, 49.117]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN010,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.404, 2.4062, 2.4084, 2.4106, 2.4128, 2.415]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN010,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.4, 70.8, 71.2, 71.6, 72.0]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN010,Vehicle/Trigger/StartOfJourney,locationLatitude,49.106,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN010,Vehicle/Trigger/StartOfJourney,locationLongitude,2.408,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN010,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN010,Vehicle/Trigger/EndOfJourney,locationLatitude,49.124,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN010,Vehicle/Trigger/EndOfJourney,locationLongitude,2.422,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN010,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN010,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.106, 49.109, 49.112, 49.115, 49.118, 49.121, 49.124]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN010,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.408, 2.4103333, 2.4126667, 2.415, 2.4173333, 2.4196667, 2.422]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN010,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.3, 70.7, 71.0, 71.3, 71.7, 72.0]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN010,Vehicle/Trigger/StartOfJourney,locationLatitude,49.109,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN010,Vehicle/Trigger/StartOfJourney,locationLongitude,2.412,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN010,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN010,Vehicle/Trigger/EndOfJourney,locationLatitude,49.119,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN010,Vehicle/Trigger/EndOfJourney,locationLongitude,2.429,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN010,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN010,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.109, 49.1115, 49.114, 49.1165, 49.119]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN010,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.412, 2.41625, 2.4205, 2.42475, 2.429]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN010,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.5, 71.0, 71.5, 72.0]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN010,Vehicle/Trigger/StartOfJourney,locationLatitude,49.112,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN010,Vehicle/Trigger/StartOfJourney,locationLongitude,2.416,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN010,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN010,Vehicle/Trigger/EndOfJourney,locationLatitude,49.126,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN010,Vehicle/Trigger/EndOfJourney,locationLongitude,2.424,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN010,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN010,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.112, 49.1148, 49.1176, 49.1204, 49.1232, 49.126]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN010,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.416, 2.4176, 2.4192, 2.4208, 2.4224, 2.424]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN010,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.4, 70.8, 71.2, 71.6, 72.0]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN011,Vehicle/Trigger/StartOfJourney,locationLatitude,49.13,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN011,Vehicle/Trigger/StartOfJourney,locationLongitude,2.42,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN011,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN011,Vehicle/Trigger/EndOfJourney,locationLatitude,49.14,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN011,Vehicle/Trigger/EndOfJourney,locationLongitude,2.428,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN011,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN011,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.13, 49.1325, 49.135, 49.1375, 49.14]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN011,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.42, 2.422, 2.424, 2.426, 2.428]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN011,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.5, 71.0, 71.5, 72.0]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN011,Vehicle/Trigger/StartOfJourney,locationLatitude,49.133,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN011,Vehicle/Trigger/StartOfJourney,locationLongitude,2.424,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN011,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN011,Vehicle/Trigger/EndOfJourney,locationLatitude,49.147,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN011,Vehicle/Trigger/EndOfJourney,locationLongitude,2.435,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN011,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN011,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.133, 49.1358, 49.1386, 49.1414, 49.1442, 49.147]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN011,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.424, 2.4262, 2.4284, 2.4306, 2.4328, 2.435]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN011,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.4, 70.8, 71.2, 71.6, 72.0]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN011,Vehicle/Trigger/StartOfJourney,locationLatitude,49.136,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN011,Vehicle/Trigger/StartOfJourney,locationLongitude,2.428,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN011,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN011,Vehicle/Trigger/EndOfJourney,locationLatitude,49.154,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN011,Vehicle/Trigger/EndOfJourney,locationLongitude,2.442,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN011,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN011,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.136, 49.139, 49.142, 49.145, 49.148, 49.151, 49.154]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN011,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.428, 2.4303333, 2.4326667, 2.435, 2.4373333, 2.4396667, 2.442]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN011,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.3, 70.7, 71.0, 71.3, 71.7, 72.0]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN011,Vehicle/Trigger/StartOfJourney,locationLatitude,49.139,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN011,Vehicle/Trigger/StartOfJourney,locationLongitude,2.432,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN011,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN011,Vehicle/Trigger/EndOfJourney,locationLatitude,49.149,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN011,Vehicle/Trigger/EndOfJourney,locationLongitude,2.449,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN011,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN011,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.139, 49.1415, 49.144, 49.1465, 49.149]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN011,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.432, 2.43625, 2.4405, 2.44475, 2.449]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN011,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.5, 71.0, 71.5, 72.0]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN011,Vehicle/Trigger/StartOfJourney,locationLatitude,49.142,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN011,Vehicle/Trigger/StartOfJourney,locationLongitude,2.436,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN011,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN011,Vehicle/Trigger/EndOfJourney,locationLatitude,49.156,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN011,Vehicle/Trigger/EndOfJourney,locationLongitude,2.444,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN011,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN011,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.142, 49.1448, 49.1476, 49.1504, 49.1532, 49.156]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN011,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.436, 2.4376, 2.4392, 2.4408, 2.4424, 2.444]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN011,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.4, 70.8, 71.2, 71.6, 72.0]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN012,Vehicle/Trigger/StartOfJourney,locationLatitude,49.16,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN012,Vehicle/Trigger/StartOfJourney,locationLongitude,2.44,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN012,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN012,Vehicle/Trigger/EndOfJourney,locationLatitude,49.17,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN012,Vehicle/Trigger/EndOfJourney,locationLongitude,2.448,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN012,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN012,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.16, 49.1625, 49.165, 49.1675, 49.17]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN012,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.44, 2.442, 2.444, 2.446, 2.448]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN012,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.5, 71.0, 71.5, 72.0]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN012,Vehicle/Trigger/StartOfJourney,locationLatitude,49.163,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN012,Vehicle/Trigger/StartOfJourney,locationLongitude,2.444,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN012,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN012,Vehicle/Trigger/EndOfJourney,locationLatitude,49.177,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN012,Vehicle/Trigger/EndOfJourney,locationLongitude,2.455,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN012,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN012,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.163, 49.1658, 49.1686, 49.1714, 49.1742, 49.177]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN012,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.444, 2.4462, 2.4484, 2.4506, 2.4528, 2.455]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN012,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.4, 70.8, 71.2, 71.6, 72.0]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN012,Vehicle/Trigger/StartOfJourney,locationLatitude,49.166,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN012,Vehicle/Trigger/StartOfJourney,locationLongitude,2.448,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN012,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN012,Vehicle/Trigger/EndOfJourney,locationLatitude,49.184,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN012,Vehicle/Trigger/EndOfJourney,locationLongitude,2.462,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN012,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN012,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.166, 49.169, 49.172, 49.175, 49.178, 49.181, 49.184]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN012,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.448, 2.4503333, 2.4526667, 2.455, 2.4573333, 2.4596667, 2.462]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN012,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.3, 70.7, 71.0, 71.3, 71.7, 72.0]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN012,Vehicle/Trigger/StartOfJourney,locationLatitude,49.169,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN012,Vehicle/Trigger/StartOfJourney,locationLongitude,2.452,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN012,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN012,Vehicle/Trigger/EndOfJourney,locationLatitude,49.179,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN012,Vehicle/Trigger/EndOfJourney,locationLongitude,2.469,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN012,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN012,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.169, 49.1715, 49.174, 49.1765, 49.179]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN012,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.452, 2.45625, 2.4605, 2.46475, 2.469]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN012,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.5, 71.0, 71.5, 72.0]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN012,Vehicle/Trigger/StartOfJourney,locationLatitude,49.172,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN012,Vehicle/Trigger/StartOfJourney,locationLongitude,2.456,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN012,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN012,Vehicle/Trigger/EndOfJourney,locationLatitude,49.186,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN012,Vehicle/Trigger/EndOfJourney,locationLongitude,2.464,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN012,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN012,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.172, 49.1748, 49.1776, 49.1804, 49.1832, 49.186]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN012,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.456, 2.4576, 2.4592, 2.4608, 2.4624, 2.464]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN012,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.4, 70.8, 71.2, 71.6, 72.0]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN013,Vehicle/Trigger/StartOfJourney,locationLatitude,49.19,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN013,Vehicle/Trigger/StartOfJourney,locationLongitude,2.46,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN013,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T07:00:00Z,2026-02-13T07:00:01Z,electric,bev,fixture
+VIN013,Vehicle/Trigger/EndOfJourney,locationLatitude,49.2,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN013,Vehicle/Trigger/EndOfJourney,locationLongitude,2.468,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN013,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN013,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.19, 49.1925, 49.195, 49.1975, 49.2]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN013,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.46, 2.462, 2.464, 2.466, 2.468]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN013,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.5, 71.0, 71.5, 72.0]",2026-02-13T07:08:00Z,2026-02-13T07:08:01Z,electric,bev,fixture
+VIN013,Vehicle/Trigger/StartOfJourney,locationLatitude,49.193,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN013,Vehicle/Trigger/StartOfJourney,locationLongitude,2.464,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN013,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T10:00:00Z,2026-02-13T10:00:01Z,electric,bev,fixture
+VIN013,Vehicle/Trigger/EndOfJourney,locationLatitude,49.207,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN013,Vehicle/Trigger/EndOfJourney,locationLongitude,2.475,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN013,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN013,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.193, 49.1958, 49.1986, 49.2014, 49.2042, 49.207]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN013,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.464, 2.4662, 2.4684, 2.4706, 2.4728, 2.475]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN013,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.4, 70.8, 71.2, 71.6, 72.0]",2026-02-13T10:09:00Z,2026-02-13T10:09:01Z,electric,bev,fixture
+VIN013,Vehicle/Trigger/StartOfJourney,locationLatitude,49.196,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN013,Vehicle/Trigger/StartOfJourney,locationLongitude,2.468,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN013,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T13:00:00Z,2026-02-13T13:00:01Z,electric,bev,fixture
+VIN013,Vehicle/Trigger/EndOfJourney,locationLatitude,49.214,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN013,Vehicle/Trigger/EndOfJourney,locationLongitude,2.482,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN013,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN013,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.196, 49.199, 49.202, 49.205, 49.208, 49.211, 49.214]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN013,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.468, 2.4703333, 2.4726667, 2.475, 2.4773333, 2.4796667, 2.482]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN013,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.3, 70.7, 71.0, 71.3, 71.7, 72.0]",2026-02-13T13:10:00Z,2026-02-13T13:10:01Z,electric,bev,fixture
+VIN013,Vehicle/Trigger/StartOfJourney,locationLatitude,49.199,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN013,Vehicle/Trigger/StartOfJourney,locationLongitude,2.472,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN013,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T16:00:00Z,2026-02-13T16:00:01Z,electric,bev,fixture
+VIN013,Vehicle/Trigger/EndOfJourney,locationLatitude,49.209,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN013,Vehicle/Trigger/EndOfJourney,locationLongitude,2.489,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN013,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN013,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.199, 49.2015, 49.204, 49.2065, 49.209]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN013,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.472, 2.47625, 2.4805, 2.48475, 2.489]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN013,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.5, 71.0, 71.5, 72.0]",2026-02-13T16:11:00Z,2026-02-13T16:11:01Z,electric,bev,fixture
+VIN013,Vehicle/Trigger/StartOfJourney,locationLatitude,49.202,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN013,Vehicle/Trigger/StartOfJourney,locationLongitude,2.476,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN013,Vehicle/Trigger/StartOfJourney,lastKnownLocationAltitude,70.0,,2026-02-13T19:00:00Z,2026-02-13T19:00:01Z,electric,bev,fixture
+VIN013,Vehicle/Trigger/EndOfJourney,locationLatitude,49.216,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN013,Vehicle/Trigger/EndOfJourney,locationLongitude,2.484,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN013,Vehicle/Trigger/EndOfJourney,lastKnownLocationAltitude,72.0,,2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN013,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLatitude,,"[49.202, 49.2048, 49.2076, 49.2104, 49.2132, 49.216]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN013,UCD/Sent/Trigger/Trg_periodic_5_seconds,locationLongitude,,"[2.476, 2.4776, 2.4792, 2.4808, 2.4824, 2.484]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture
+VIN013,UCD/Sent/Trigger/Trg_periodic_5_seconds,lastKnownLocationAltitude,,"[70.0, 70.4, 70.8, 71.2, 71.6, 72.0]",2026-02-13T19:12:00Z,2026-02-13T19:12:01Z,electric,bev,fixture

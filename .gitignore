@@ -1,0 +1,31 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.streamlit/secrets.toml
+artifacts/*/uploads/
+*.parquet
+
+# Environments and secrets
+.env
+.env.*
+!.env.example
+
+# Python packaging and tooling
+*.egg-info/
+build/
+dist/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Private/large telemetry
+/data/sample/bq-results-*
+
+# Generated runs; retain the curated demo snapshot
+/artifacts/*
+!/artifacts/demo/
+!/artifacts/demo/**
+/artifacts/demo/uploads/
